@@ -1,4 +1,4 @@
-var serviceURL = "http://192.168.56.1/phonegap/services/";
+var serviceURL = "http://androiddeveloper.site11.com/";
 
 $('#detailsPage').live('pageshow', function(event) {
 	
